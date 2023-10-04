@@ -1,0 +1,1 @@
+# cnn_resnet18_finetunewithcifar10
